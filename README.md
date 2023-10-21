@@ -20,7 +20,7 @@ Experienced Full Stack Software Developer with a strong foundation in .NET C#, S
 Seeking a challenging opportunity to leverage my expertise in building large-scale systems and delivering innovative digital solutions while nurturing career development. Passionate about shaping the future of customer interaction through technology.
 
 
-## 👨‍💻 Skills & Experiance: 
+## 👨‍💻 Employment History: 
 ### Dedicated Full Stack Developer, CanadianAdviser.ca
 ### 03/2021-Present <br>
 - Developed and maintained digital solutions for the Ecommerce sector, ensuring access to clean code and continuous integration in production environments. <br>
@@ -52,6 +52,35 @@ mathematical modeling, supporting efficient embedded systems development. <br>
 - Managed server infrastructure, integrated SonoType Nexus for repository
 management, and embraced Azure for cloud-based solutions, ensuring robust
 server management, dependency tracking, and scalable cloud deployments. <br>
+
+
+
+
+## 👨‍💻 Education: 
+### BSc in Computer Science, University of the People (USA)
+### 04/2023-Present <br>
+- Pursuing a comprehensive computer science curriculum with a focus on information technology solutions, data processing, and cybersecurity.
+- Engaging in activities such as feedback, mentoring, research, and projects to
+foster continuous learning and a global perspective in a diverse and collaborative world.
+- Collaborating in a learning environment grounded in clean code and the latest
+technologies.
+
+### CS50: Introduction to Computer Science, Harvard University (USA)
+### 01/2023- 04-2023 <br>
+- Completed Harvard University's CS50 course, gaining expertise in C, Python,
+SQL, JavaScript, CSS, and HTML.
+- Strong emphasis on unit testing and continuous integration.
+- Applied principles of clean code, unit testing, and prototyping to develop
+digital solutions
+- Participated in wellness initiatives to enhance overall team performance.
+- Acquired knowledge in abstraction, algorithms, data structures, and web development, essential for designing seamless workspaces and collaborating with diverse teams.
+
+### Computer Technician, SENA (Colombia)
+### 02/2011- 09-2012 <br>
+- Graduated from SENA's Computer Technician Program with specialization in computer hardware, operating systems, networking, programming, database management, and web development
+- Developed a strong foundation in computer science, mathematics, and physics,
+providing a holistic understanding of technical capabilities for business success.
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjarami)](https://github.com/anuraghazra/github-readme-stats)
