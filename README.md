@@ -34,9 +34,7 @@ portfolio.
 building large-scale web applications
 and integrating third-party solutions
 to enhance customer experience and
-drive business revenue.
-
-Proficient in Laravel PHP, Python,
+drive business revenue. <br> Proficient in Laravel PHP, Python,
 Java, C++, HTML, CSS, JavaScript,
 SQL, and coding practices that align
 with a more enlightened way of
