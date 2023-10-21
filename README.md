@@ -15,9 +15,9 @@ to leverage my expertise in building large-scale systems and delivering innovati
 
 
 <p>
-👑 Software Engineer <br> 
-🖊️ Love to write code <br> 
-🎤 Like to share my knowledge </p> 
+👑 Full Stack Software Developer <br> 
+🖊️ Love to Write Code <br> 
+🎤 Like to Share My Knowledge </p> 
 
 <p align="left"> <a href="https://twitter.com/juanjarami" target="blank"><img src="https://img.shields.io/twitter/follow/Juan Jaramillo?logo=twitter&style=for-the-badge" alt="Juan Jaramillo" /></a> </p>
 
