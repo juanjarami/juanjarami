@@ -30,7 +30,7 @@ Dedicated to continuous integration,
 unit testing, and clean code practices, ensuring a high-quality product
 portfolio.
 
-Software Engineering: Proficient in
+- Software Engineering: Proficient in
 building large-scale web applications
 and integrating third-party solutions
 to enhance customer experience and
@@ -42,14 +42,14 @@ SQL, and coding practices that align
 with a more enlightened way of
 working.
 
-Web Development: Skilled in both
+- Web Development: Skilled in both
 frontend and backend development,
 creating user-facing software and
 connecting customers with efficient
 internal systems.
 
 
-Data Analysis and Database Management: Experienced in data processing, ETL pipelines, and technologies supporting customer-related data, driving business efficiency.
+- Data Analysis and Database Management: Experienced in data processing, ETL pipelines, and technologies supporting customer-related data, driving business efficiency.
 
 
 Proficiently employed a diverse
@@ -57,37 +57,37 @@ range of developer tools, including Git, Docker, Kubernetes, Atlassian Suite (Ji
 SonoType Nexus, and Azure for efficient software development and infrastructure management.
 
 
-Software Development Methodologies: Familiar with Agile and DevOps
+- Software Development Methodologies: Familiar with Agile and DevOps
 principles, promoting diversity, efficiency, and collaboration in software
 development.
 
-Problem Solving: Proficient in diagnosing and resolving root causes,
+- Problem Solving: Proficient in diagnosing and resolving root causes,
 promoting customer satisfaction and
 business efficiency.
 
-User Experience: Dedicated to creating seamless user experiences,
+- User Experience: Dedicated to creating seamless user experiences,
 ready to collaborate fostering customer loyalty and business success.
 
-Technical Leadership: Able to articulate a technical vision, mentor junior
+- Technical Leadership: Able to articulate a technical vision, mentor junior
 engineers, and lead a corporate culture that values technical leadership
 and collaboration.
 
-Adaptability: Excel in diverse fields
+- Adaptability: Excel in diverse fields
 and global industries, promoting a
 flexible and efficient workspace that
 supports new technologies and business goals.
 
-Collaboration: Committed team
+- Collaboration: Committed team
 member, driving innovation and exceeding customer expectations by
 connecting employees from different
 backgrounds and experiences while
 helping them to manage their production environment.
 
-Empathetic Interviewing: Conducted empathetic interviews to understand and address customer needs,
+- Empathetic Interviewing: Conducted empathetic interviews to understand and address customer needs,
 enhancing overall business revenue
 and customer satisfaction.
 
-Supporting Business: Leveraged
+- Supporting Business: Leveraged
 technical expertise to support business growth and efficiency, contributing to employee development
 and recruitment.
 
