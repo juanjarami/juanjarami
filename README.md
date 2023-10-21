@@ -56,16 +56,14 @@ server management, dependency tracking, and scalable cloud deployments. <br>
 
 
 ## 👨‍💻 Education: 
-### BSc in Computer Science, University of the People (USA)
-### 04/2023-Present <br>
+### BSc in Computer Science, University of the People (USA) [04/2023-Present]
 - Pursuing a comprehensive computer science curriculum with a focus on information technology solutions, data processing, and cybersecurity.
 - Engaging in activities such as feedback, mentoring, research, and projects to
 foster continuous learning and a global perspective in a diverse and collaborative world.
 - Collaborating in a learning environment grounded in clean code and the latest
 technologies.
 
-### CS50: Introduction to Computer Science, Harvard University (USA)
-### 01/2023- 04-2023 <br>
+### CS50: Introduction to Computer Science, Harvard University (USA) [01/2023- 04-2023]
 - Completed Harvard University's CS50 course, gaining expertise in C, Python,
 SQL, JavaScript, CSS, and HTML.
 - Strong emphasis on unit testing and continuous integration.
@@ -74,8 +72,7 @@ digital solutions
 - Participated in wellness initiatives to enhance overall team performance.
 - Acquired knowledge in abstraction, algorithms, data structures, and web development, essential for designing seamless workspaces and collaborating with diverse teams.
 
-### Computer Technician, SENA (Colombia)
-### 02/2011- 09-2012 <br>
+### Computer Technician, SENA (Colombia) [02/2011- 09-2012]
 - Graduated from SENA's Computer Technician Program with specialization in computer hardware, operating systems, networking, programming, database management, and web development
 - Developed a strong foundation in computer science, mathematics, and physics,
 providing a holistic understanding of technical capabilities for business success.
