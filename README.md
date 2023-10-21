@@ -47,11 +47,7 @@ connecting customers with efficient
 internal systems.
 
 
-- Data Analysis and Database Management: Experienced in data processing, ETL pipelines, and technologies supporting customer-related data, driving business efficiency.
-
-
-Proficiently employed a diverse
-range of developer tools, including Git, Docker, Kubernetes, Atlassian Suite (Jira, Confluence, BitBucket, Bamboo), Yocto, MATLAB/Simulink, server management,
+- Data Analysis and Database Management: Experienced in data processing, ETL pipelines, and technologies supporting customer-related data, driving business efficiency.<br> Proficiently employed a diverserange of developer tools, including Git, Docker, Kubernetes, Atlassian Suite (Jira, Confluence, BitBucket, Bamboo), Yocto, MATLAB/Simulink, server management,
 SonoType Nexus, and Azure for efficient software development and infrastructure management.
 
 
@@ -87,20 +83,10 @@ and customer satisfaction.
 
 - Supporting Business: Leveraged
 technical expertise to support business growth and efficiency, contributing to employee development
-and recruitment.
-
-Experienced in digital solutions for
+and recruitment.<br> Experienced in digital solutions for
 Ecommerce, software design and financial products, promoting equality
-and diversity.
-
-
-Grounded in Scrum methodologies
-and remote access, supporting product development and career growth.
-
-Collaborative team member with a
-focus on integrity, managing expenses, and nurturing wellness initiatives.
-
-Strong written and verbal communication skills, facilitating effective
+and diversity. <br> Grounded in Scrum methodologies
+and remote access, supporting product development and career growth.<br> Collaborative team member with a focus on integrity, managing expenses, and nurturing wellness initiatives.<br> Strong written and verbal communication skills, facilitating effective
 meetings (QA) and technical leadership.
 
 
