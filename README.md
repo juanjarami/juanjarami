@@ -1,4 +1,4 @@
-## Hi, I'm Juan Jaramillo 👋
+# Hi, I'm Juan Jaramillo 👋
 
 ![Hi, I'm Juan Jaramillo 👋](https://github.com/juanjarami/juanjarami/blob/main/welcome1.png?raw=true)
 
