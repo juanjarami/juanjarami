@@ -19,7 +19,7 @@ to leverage my expertise in building large-scale systems and delivering innovati
 🖊️ Love to write code <br> 
 🎤 Like to share my knowledge </p> 
 
-<p align="left"> <a href="https://twitter.com/awais-khan" target="blank"><img src="https://img.shields.io/twitter/follow/awais-khan?logo=twitter&style=for-the-badge" alt="Awais Khan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/juanjarami" target="blank"><img src="https://img.shields.io/twitter/follow/Juan Jaramillo?logo=twitter&style=for-the-badge" alt="Juan Jaramillo" /></a> </p>
 
 
 
