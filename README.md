@@ -21,15 +21,37 @@ Seeking a challenging opportunity to leverage my expertise in building large-sca
 
 
 ## 👨‍💻 Skills & Experiance: 
-✅ 
-✅ 
-✅ 
-✅ 
-✅ 
-✅ 
-✅ 
-✅ 
-✅ 
+### Dedicated Full Stack Developer, CanadianAdviser.ca
+03/2021-Present
+✅ Developed and maintained digital solutions for the Ecommerce sector, ensuring access to clean code and continuous integration in production environments. <br>
+✅ Collaborated with cross-functional teams, including other developers to gather
+and analyze business requirements, contributing to a diverse product portfolio. <br>
+✅ Demonstrated expertise in .NET C#, WebAPI, SQL Server, NServiceBus,
+ASP.NET, React, Typescript, SCSS/LESS, Enzyme + Jest/Mocha, and VB6. <br>
+✅ Implemented real-time communication using SignalR for interactive features
+and Server-Sent Events (SSE) for efficient data streaming. <br>
+✅ Demonstrated proficiency in WordPress development, including custom
+theme and plugin development, to create and build tailored web solutions
+that prioritize user experience, wellbeing, and aesthetics, using Laravel PHP,
+Python, Java, C++, HTML, CSS, JavaScript, SQL, and coding practices that align
+with appropriate design principles and a more enlightened way of working, <br>
+✅ Conducted unit testing and participated in Scrum meetings to uphold code
+integrity and product quality. <br>
+✅ Embraced wellness initiatives, promoting a motivated and focused team while
+working in home office environments. <br>
+✅ Managed expenses and equipment for remote access, supporting financial
+transparency <br>
+✅ Prototyped new products and enhanced existing ones, fostering equality and
+integrity in digital solutions. <br>
+✅ Proficiently employed a wide array of developer tools, including Git for version
+control, Docker and Kubernetes for containerization and orchestration, and
+Make for automation, optimizing software development processes. <br>
+✅ Leveraged Atlassian's suite (Jira, Confluence, BitBucket, Bamboo) for streamlined project management and collaboration, enhancing cross-functional development team efficiency. <br>
+✅ Utilized Yocto for custom Linux distribution building and MATLAB/Simulink for
+mathematical modeling, supporting efficient embedded systems development. <br>
+✅ Managed server infrastructure, integrated SonoType Nexus for repository
+management, and embraced Azure for cloud-based solutions, ensuring robust
+server management, dependency tracking, and scalable cloud deployments. <br>
 
 
 
