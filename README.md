@@ -23,6 +23,7 @@ Seeking a challenging opportunity to leverage my expertise in building large-sca
 ## 👨‍💻 Skills & Experiance: 
 ### Dedicated Full Stack Developer, CanadianAdviser.ca
 ### 03/2021-Present <br>
+- hgfhfgh
 ✅ Developed and maintained digital solutions for the Ecommerce sector, ensuring access to clean code and continuous integration in production environments. <br>
 ✅ Collaborated with cross-functional teams, including other developers to gather
 and analyze business requirements, contributing to a diverse product portfolio. <br>
