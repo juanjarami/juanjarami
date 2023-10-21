@@ -12,9 +12,7 @@
 
 
 ## 🚀 About Me:
-Experienced Full Stack Software Developer with a strong foundation in .NET C#, SQL Server, and NServiceBus for backend development. Proficient in React, TypeScript, and SCSS/LESS for frontend and UI design, with a deep commitment to writing clean code and ensuring a seamless customer experience.
-
-Seeking a challenging opportunity to leverage my expertise in building large-scale systems and delivering innovative digital solutions while nurturing career development. Passionate about shaping the future of customer interaction through technology.
+Experienced Full Stack Software Developer with a strong foundation in .NET C#, SQL Server, and NServiceBus for backend development. Proficient in React, TypeScript, and SCSS/LESS for frontend and UI design, with a deep commitment to writing clean code and ensuring a seamless customer experience. Passionate about shaping the future of customer interaction through technology.
 
 
 
